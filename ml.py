@@ -6,3 +6,5 @@ print(4)
 
 
 print("no push")
+
+print("push")
