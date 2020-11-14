@@ -6,3 +6,5 @@ print('my update')
 print('other modify')
 
 print(5)
+
+print(6)
