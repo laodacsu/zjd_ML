@@ -8,3 +8,5 @@ print(4)
 print("no push")
 
 print("push")
+
+print(3)
